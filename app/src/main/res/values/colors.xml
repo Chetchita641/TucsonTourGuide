@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Color values for the categories -->
+    <color name="category_restaurants">@android:color/holo_red_dark</color>
+    <color name="category_cultural">@android:color/holo_blue_dark</color>
+    <color name="category_events">@android:color/holo_green_dark</color>
+    <color name="category_nightlife">@android:color/holo_purple</color>
+
+    <!--Transparent versions of the same category colors -->
+
+</resources>

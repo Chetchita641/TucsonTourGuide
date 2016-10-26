@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">Tucson Tour Guide</string>
+
+    <!-- List of Restaurant names -->
+    <string name="beyond_bread_name">Beyond Bread</string>
+    <string name="red_garter_name">Red Garter</string>
+    <string name="taco_shop_name">Taco Shop</string>
+
+    <!-- List of Restaurant short descriptions -->
+    <string name="beyond_bread_short">Very Tasty Sandwiches</string>
+    <string name="red_garter_short">Burgers and Beer</string>
+    <string name="taco_shop_short">Hangover Mexican Food</string>
+
+    <!-- List of Restaurant Phone Numbers -->
+    <string name="beyond_bread_phone">5203229965</string>
+    <string name="red_garter_phone">5203250483</string>
+    <string name="taco_shop_phone">5206221899</string>
+
+    <!-- List of Restaurant geo locations -->
+    <string name="beyond_bread_geo">32.235101,-110.858692</string>
+    <string name="red_garter_geo">32.2356499,-110.9269502</string>
+    <string name="taco_shop_geo">32.221016,-110.951217</string>
+
+    <!--List of Restaurant websites -->
+    <string name="beyond_bread_website">beyondbread.com</string>
+    <string name="red_garter_website">redgartertucson.com</string>
+
+    <!-- List of Restaurant long descriptions -->
+    <string name="beyond_bread_long">One of Tucson\'s own, it is a place where you can meet up with friends or have a business
+        meeting over an overstuffed sandwich. Baked goods and fresh bread are always available, along with seasonal offerings. </string>
+    <string name="red_garter_long">Either as a stopover for the nearby indie filmhouse, the Loft Cinema, or functioning as a
+        working class bar to catch up on the games, the Red Garter provides service mixed with cheap drinks and tasty food. </string>
+    <string name="taco_shop_long">In the overcrowded field of fast Mexican food joints, the Taco Shop stands out for its long hours
+        and speedy service. Plus, its good food is a plus, too. </string>
+
+    <!-- List of Restaurant Tips -->
+    <string name="beyond_bread_tip">Visit the Back Dough at the back of the restaurant for freshly baked pies.</string>
+    <string name="red_garter_tip">Try the BBQ Burger and the $2 PBR.</string>
+    <string name="taco_shop_tip">A chimichanga meal will fill you up for the entire day... in a good way.</string>
+
+    <!-- List of Cultural Attraction names -->
+    <string name="desert_museum_name">The Desert Museum</string>
+    <string name="saguaro_monument_name">The Saguaro National Monument</string>
+    <string name="reid_park_zoo_name">The Reid Park Zoo</string>
+
+    <!-- List of Cultural Attraction short descriptions -->
+    <string name="desert_museum_short">Showcase of the Sonoran Desert</string>
+    <string name="saguaro_monument_short">The natural desert, preserved</string>
+    <string name="reid_park_zoo_short">Home of over 100 animals</string>
+
+    <!-- List of Cultural Attraction Phone Numbers -->
+    <string name="desert_museum_phone">5208831380</string>
+    <string name="reid_park_zoo_phone">5207913204</string>
+
+    <!-- List of Cultural Attraction geo locations -->
+    <string name="desert_museum_geo">32.244167,-111.168251</string>
+    <string name="reid_park_zoo_geo">32.209860,-110.920758</string>
+
+    <!-- List of Cultural Attraction websites -->
+    <string name="desert_museum_website">desertmuseum.org</string>
+    <string name="saguaro_monument_website">nps.gov/sagu/</string>
+    <string name="reid_park_zoo_website">reidparkzoo.org</string>
+
+    <!-- List of Cultural Attraction long descriptions -->
+    <string name="desert_museum_long">Situated well west of the city itself, the Desert Museum is a showcase of many of the
+        flora and fauna of the Sonoran Desert. During the summers, the muesum is also open at night to show off its nocturnal
+        residents. </string>
+    <string name="saguaro_monument_long">The Saguaro National Monument is split into its west and east sides. On the east, cars
+        can drive through and see the natural scenery or get off to walk through it as well. On the west in the Santa Rita mountains,
+        you can see an unrivaled sunset or go for a hike.</string>
+    <string name="reid_park_zoo_long">From aardvarks to zebras, the Reid Park Zoo has been nationally recognized for its welcoming
+        atmosphere and care of its animals. The pride of the zoo most recently has come in its recently built elephant habitat. </string>
+
+    <!-- List of Cultural Attraction tips -->
+    <string name="desert_museum_tip">Come early to beat the heat and the crowds.</string>
+    <string name="saguaro_monument_tip">Bring a set of hiking shoes, a camera, and plenty of time (and water).</string>
+    <string name="reid_park_zoo_tip">Come at 10:00am to hand feed the giraffes.</string>
+
+    <!--List of Events names -->
+    <string name="tucson_meet_yourself_name">Tucson Meet Yourself</string>
+    <string name="nam_jam_name">Nam Jam</string>
+    <string name="festival_of_books_name">Festival of Books</string>
+
+    <!--List of Event short descriptions -->
+    <string name="tucson_meet_yourself_short">Meet all the cultures that make Tucson</string>
+    <string name="nam_jam_short">Honor Vietnam veterans with classic rock</string>
+    <string name="festival_of_books_short">The national\'s largest celebration of books</string>
+
+    <!--List of Event phone numbers -->
+    <string name="tucson_meet_yourself_phone">5206214046</string>
+
+    <!-- List of Event locations -->
+    <string name="tucson_meet_yourself_geo">32.223094,-110.973233</string>
+    <string name="nam_jam_geo">32.210658,-110.923934</string>
+    <string name="festival_of_books_geo">32.230999,-110.949608</string>
+
+    <!-- List of Event websites -->
+    <string name="tucson_meet_yourself_website">tucsonmeetyourself.org</string>
+    <string name="nam_jam_website">namjamtucson.org</string>
+    <string name="festival_of_books_website">tucsonfestivalofbooks.org</string>
+
+    <!-- List of Event long descriptions -->
+    <string name="tucson_meet_yourself_long">Bringing together dozens of cultures and their foods, Tucson Meet Yourself meets
+        twice a year to remind Tucson\'s nearly one million residents that we share a common home and we really love to eat.</string>
+    <string name="nam_jam_long">What was once an informal gathering of Vietnam veterans has turned to a classic rock bonanza
+        harkening back to better memories of the 60\'s and 70\'s while never forgetting the tougher memories, too. </string>
+    <string name="festival_of_books_long">Recently started by the University of Arizona, the Tucson Festival of Books brings together
+        authors, readers, and everyone in between in a celebration of all things books. Activities for writers and children
+        are so plentiful that the local paper publishes a multipage guide on it every year.</string>
+
+    <!-- List of Event tips -->
+    <string name="tucson_meet_yourself_tip">Bring at least $40 in pocket cash, because you will want to taste everything.</string>
+    <string name="nam_jam_tip">If you\'re too late to park in the park, the nearby neighborhoods don\'t mind you parking in the
+        sidestreets. </string>
+    <string name="festival_of_books_tip">Schedule out which events you want to attend, as there are maany happening at the same time.</string>
+
+    <!-- List of Nightlife names -->
+    <string name="club_congress_name">Club Congress</string>
+    <string name="loft_cinema_name">Loft Cinema</string>
+    <string name="rialto_name">Rialto Theater</string>
+
+    <!-- Splash titles -->
+    <string name="restuarants">Restaurants</string>
+    <string name="cultural">Cultrual \nAttractions</string>
+    <string name="events">Events</string>
+    <string name="nightlife">Nightlife</string>
+
+    <!-- List of Nightlife short descriptions -->
+    <string name="club_congress_short">Tucson\'s premiere nightspot</string>
+    <string name="loft_cinema_short">Non-profit, independent cinema</string>
+    <string name="rialto_short">Intimate venue for today\'s hottest artists</string>
+
+    <!-- List of Nightlife phone numbers -->
+    <string name="club_congress_phone">5206228848</string>
+    <string name="loft_cinema_phone">5207950844</string>
+    <string name="rialto_phone">5207401000</string>
+
+    <!-- List of Nightlife geo locations -->
+    <string name="club_congress_geo">32.222250,-110.966656</string>
+    <string name="loft_cinema_geo">32.236472,-110.923553</string>
+    <string name="rialto_geo">32.221878,-110.966506</string>
+
+    <!-- List of Nightlife websites -->
+    <string name="club_congress_website">hotelcongress.com</string>
+    <string name="loft_cinema_website">loftcinema.og</string>
+    <string name="rialto_website">rialtotheatre.com</string>
+
+    <!-- List of Nightlife long descriptions -->
+    <string name="club_congress_long">The historic Club Congress has been with Tucson for almost 90 years, long enough to have
+        John Dillinger himself arrested right outside its doors (\"Well, I\'ll be damned,\" he was quoted at the time).
+        Everything from dancing to drag shows to fundraisers to video game competitions are held here.</string>
+    <string name="loft_cinema_long">The Loft Cinema has recently become a non-profit and because of this move it has allowed itself
+        to become a fearless place showing any kind of movie that a major run theater won\'t. Mondo Mondays, Cult Classic Fridays,
+        and free summer movies for children are just a small sampling of their events and dedication to the community.</string>
+    <string name="rialto_long">Right across the street from Club Congress is Tucson\'s pride, the Rialto Theater. Music
+        acts of all kinds have come through their doors, and with each major act they erect a wallside mural on the side of
+        their building in their honor.</string>
+
+    <!-- List of Nightlife tips -->
+    <string name="club_congress_tip">Come weekend mornings for bloody mary specials or just a tasty brunch with a cup of coffee.</string>
+    <string name="loft_cinema_tip">Come to the First Friday Shorts to watch the community\'s best short films... and gong them.</string>
+    <string name="rialto_tip">The Korean/Mexican food truck that parks just outside on Saturdays is the most amazing food ever made
+        or eaten.</string>
+
+</resources>
